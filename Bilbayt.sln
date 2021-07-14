@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bilbayt", "Bilbayt\Bilbayt.csproj", "{4EA5B64C-E792-4E14-B698-6631FEDA374B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillBaytTest", "BillBaytTest\BillBaytTest.csproj", "{966CFB3F-7B68-4947-8D8E-9A1E13B07095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA5B64C-E792-4E14-B698-6631FEDA374B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA5B64C-E792-4E14-B698-6631FEDA374B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA5B64C-E792-4E14-B698-6631FEDA374B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA5B64C-E792-4E14-B698-6631FEDA374B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966CFB3F-7B68-4947-8D8E-9A1E13B07095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966CFB3F-7B68-4947-8D8E-9A1E13B07095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966CFB3F-7B68-4947-8D8E-9A1E13B07095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966CFB3F-7B68-4947-8D8E-9A1E13B07095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D7FD1C1-D4A9-42CF-AF64-087F58D7616E}
+	EndGlobalSection
+EndGlobal
